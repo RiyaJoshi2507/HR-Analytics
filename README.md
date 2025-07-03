@@ -97,14 +97,6 @@ Education field and employment type impact overall attrition trends.
 
 /README.md                     -- Project documentation (this file)
 
-🚀 Future Scope
-
-Integrate machine learning to predict future attrition risk
-
-Use Power BI service or Tableau Public for real-time publishing
-
-Combine survey data for engagement analysis
-
 🙋‍♀️ Author
 
 Riya Joshi
