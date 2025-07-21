@@ -14,17 +14,6 @@ Identify patterns across employee demographics, tenure, and engagement.
 
 Build interactive dashboards for real-time HR reporting and decision-making.
 
-🛠 Tools & Technologies
-
-SQL (SSMS) – for data querying and transformation
-
-Power BI – for dynamic and interactive dashboarding
-
-Excel – for pivot-based visual summaries
-
-Tableau – for story-style interactive data visualizations
-
-Python (pandas, matplotlib, seaborn) – for EDA and customized visual reporting
 
 🔍 SQL Analysis Overview
 
