@@ -102,5 +102,13 @@ This project also includes a Python-based analysis using pandas, matplotlib, and
 /HR_analytics.ipynb            -- Python notebook with full analysis  
 /README.md                     -- Project documentation (this file)
 
+## 🛠 Tools & Technologies
+Python (Pandas, Matplotlib, Seaborn)
+SQL (SSMS, joins, aggregation, pivot)
+Excel (Pivot tables, charts, slicers)
+Power BI (DAX, interactive visuals)
+Tableau (Drag & drop visual analytics)
+
+
 
 **Riya Joshi**
