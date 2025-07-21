@@ -1,10 +1,10 @@
-👩‍💼 HR Analytics Dashboard
+## 👩‍💼 HR Analytics Dashboard
 
-📌 Project Description
+## 📌 Project Description
 
 This project focuses on HR analytics using SQL, Power BI, Excel, Tableau, and Python to analyze employee attrition, job satisfaction, and workforce demographics. The goal is to derive insights that help HR teams improve retention, enhance job satisfaction, and guide workforce planning.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Track and analyze employee attrition trends across gender, department, education field, and age groups.
 
@@ -15,7 +15,7 @@ Identify patterns across employee demographics, tenure, and engagement.
 Build interactive dashboards for real-time HR reporting and decision-making.
 
 
-🔍 SQL Analysis Overview
+## 🔍 SQL Analysis Overview
 
 Key queries written in the project include:
 
@@ -47,29 +47,29 @@ Job Satisfaction Ratings by Role
 
 These queries helped in preparing data for dashboard integration and deriving deep HR insights.
 
-📊 Dashboards
+## 📊 Dashboards
 
-🟢 Power BI Dashboard
+## 🟢 Power BI Dashboard
 
 - KPI Cards: Attrition Rate, Total Employees, Average Age
 - Slicers for gender, department, education field
 - Bar charts for attrition by role, age group, and job satisfaction
 
-🔵 Tableau Dashboard
+## 🔵 Tableau Dashboard
 
 - Story dashboard highlighting high attrition departments and gender-age group trends
 - Interactive views on satisfaction level and department-wise analysis
 
-🟠 Excel Dashboard
+## 🟠 Excel Dashboard
 
 - Pivot charts and KPI summaries
 - Clean static visuals for quick HR reporting
 
-🧮 Python Analysis
+## 🧮 Python Analysis
 
 This project also includes a Python-based analysis using pandas, matplotlib, and seaborn to support exploratory data analysis (EDA) and quick visual insights.
 
-📌 Python-Based Insights Summary
+## 📌 Python-Based Insights Summary
 
 1. Total Employees: 1,470 employees analyzed using pandas and grouped metrics.
 2. Average Age: The average age is approximately 36.9 years.
@@ -78,7 +78,7 @@ This project also includes a Python-based analysis using pandas, matplotlib, and
 5. Marital Status with Highest Attrition: Single employees showed the highest attrition.
 6. Age Band with Highest Attrition: Age group 25–34 experienced the most attrition.
 
-📊 Python Visualizations Included
+## 📊 Python Visualizations Included
 
 - Bar charts and funnel charts for attrition by job role, marital status, and age band.
 - Pie charts and count plots for gender distribution.
@@ -86,14 +86,14 @@ This project also includes a Python-based analysis using pandas, matplotlib, and
 - Cleaned and transformed dataset using pandas for accurate analytics.
 
 
-📈 Key Insights
+## 📈 Key Insights
 
 - Highest attrition occurs in the Sales and R&D departments.
 - Younger age groups and males show higher attrition rates.
 - Job roles with low satisfaction ratings correlate strongly with higher attrition.
 - Education field and employment type impact overall attrition trends.
 
-📁 File Structure
+## 📁 File Structure
 
 /SQL Query.docx                -- All SQL used for HR analysis  
 /HR_DASHBOARD_POWERBI.pbix     -- Power BI Dashboard file  
@@ -102,6 +102,5 @@ This project also includes a Python-based analysis using pandas, matplotlib, and
 /HR_analytics.ipynb            -- Python notebook with full analysis  
 /README.md                     -- Project documentation (this file)
 
-🙋‍♀️ Author
 
-Riya Joshi
+**Riya Joshi**
